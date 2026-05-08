@@ -13,8 +13,8 @@ msgstr ""
 "Project-Id-Version: webfontkitgenerator\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 11:45-0500\n"
-"PO-Revision-Date: 2025-08-30 15:02+0000\n"
-"Last-Translator: Sabri Ünal <yakushabb@gmail.com>\n"
+"PO-Revision-Date: 2026-05-09 16:11+0000\n"
+"Last-Translator: Ümit Solmz <solmazumit1@yandex.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/webfont-bundler/"
 "webfont-bundler/tr/>\n"
 "Language: tr\n"
@@ -22,44 +22,44 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13.1-dev\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 #: data/com.rafaelmardojai.WebfontKitGenerator.desktop.in:2
 #: data/com.rafaelmardojai.WebfontKitGenerator.metainfo.xml.in:6
 #: webfontkitgenerator/main.py:37
 msgid "Webfont Bundler"
-msgstr "Webfont Paketleyici"
+msgstr "Web Yazı Tipi Paketleyici"
 
 #: data/com.rafaelmardojai.WebfontKitGenerator.desktop.in:3
 #: data/com.rafaelmardojai.WebfontKitGenerator.metainfo.xml.in:7
 msgid "Create @font-face kits easily"
-msgstr "@font-face kitlerini kolaylıkla oluşturun"
+msgstr "@font-face kitlerini kolayca oluşturun"
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/com.rafaelmardojai.WebfontKitGenerator.desktop.in:10
 msgid "font;font-face;"
-msgstr "font;font-face;yazıtipi;yazı tipi;yazıyüzü;yazı yüzü;"
+msgstr "font;font-face;"
 
 #: data/com.rafaelmardojai.WebfontKitGenerator.metainfo.xml.in:9
 msgid ""
 "Webfont Bundler is a simple utility that allows you to generate woff, woff2 "
 "and the necessary CSS boilerplate from non-web font formats (otf and ttf)."
 msgstr ""
-"Webfont Paketleyici web standartı olmayan yazı tipi biçimlerinden (otf ve "
-"ttf) woff, woff2 ve gerekli CSS kodlarını oluşturmanıza izin veren kolay bir "
-"araçtır."
+"Webfont Bundler, web dışı yazı tipi formatlarından (otf ve ttf) woff, woff2 "
+"ve gerekli CSS şablonlarını oluşturmanıza olanak tanıyan basit bir yardımcı "
+"programdır."
 
 #: data/com.rafaelmardojai.WebfontKitGenerator.metainfo.xml.in:12
 msgid ""
 "Webfont Bundler also includes a tool to Download fonts from Google Fonts for "
 "self-hosting."
 msgstr ""
-"Webfont Paketleyici ayrıca kendi kendine barındırma için Google Fonts'tan "
-"yazı tiplerini indirmek için bir araç içerir."
+"Webfont Bundler, kendi sunucunuzda barındırmak üzere Google Fonts'tan yazı "
+"tiplerini indirebileceğiniz bir araç da içerir."
 
 #: webfontkitgenerator/window.blp:9 webfontkitgenerator/google.blp:28
 msgid "Import from Google Fonts"
-msgstr "Google Fonts'dan İçe Aktar"
+msgstr "Google Fonts'tan içe aktar"
 
 #: webfontkitgenerator/window.blp:18
 msgid "_Keyboard Shortcuts"
